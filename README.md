@@ -16,3 +16,8 @@ The script has to be run from the Blender user interface
 4. Execute script
 
 ![view](https://raw.githubusercontent.com/cagcoach/BlenderPlot/master/README-Files/run.png  "Run -> Run Script")
+
+## Contribute
+The script is still quite basic. If you have improvements, feel free to send push requests or send me an email
+
+github@christian-grund.de
